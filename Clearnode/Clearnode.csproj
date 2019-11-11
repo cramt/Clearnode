@@ -46,9 +46,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="HelperAttribute.cs" />
+    <Compile Include="EngineInterupAttribute.cs" />
     <Compile Include="Helper\Console.cs" />
     <Compile Include="Engine.cs" />
+    <Compile Include="Helper\Fs.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
